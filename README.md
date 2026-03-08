@@ -1,7 +1,7 @@
 <!-- 💜 CYBERSECURITY PROFILE 💜 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=AA00FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Kamal+Khandelwal;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+Recon+Tool+Developer;Breaking+%26+Securing+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=AA00FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Kamal+Khandelwal;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+;Breaking+%26+Securing+Systems" />
 </h1>
 
 <p align="center">
