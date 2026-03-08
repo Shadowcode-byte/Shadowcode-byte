@@ -8,12 +8,6 @@
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="100%">
-</p>
-
----
-
 ## 🖥️ Hacker Terminal
 
 ```bash
