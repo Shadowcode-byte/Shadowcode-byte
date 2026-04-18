@@ -139,7 +139,7 @@ $ ls -la ~/projects/
 
 | 🔐 Project | 📡 Description | 🛠️ Stack | ⚡ Status |
 |:---|:---|:---|:---|
-| **[100-Days-Code](https://github.com/Shadowcode-byte/100-Days-Code)** | 100-day hardcore coding challenge — consistency is a weapon | `C` | 🟢 ACTIVE |
+| **[100-Days-Code](https://github.com/Shadowcode-byte/100-Days-Code)** | 100-day hardcore coding challenge — consistency is a weapon | `C` | 🔵 COMPLETE |
 | **[DSA_100_Days](https://github.com/Shadowcode-byte/DSA_100_Days)** | Data Structures & Algorithms — mastering the fundamentals | `C` | 🟢 ACTIVE |
 | **[C_Programming](https://github.com/Shadowcode-byte/C_Programming)** | B.Tech Sem 1 — where it all began | `C` | 🔵 COMPLETE |
 | **[C_Project](https://github.com/Shadowcode-byte/C_Project)** | System-level project work from Sem 1 | `C` | 🔵 COMPLETE |
