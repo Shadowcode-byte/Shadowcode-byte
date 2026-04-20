@@ -30,10 +30,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Shadowcode-byte&color=00ff41&style=flat-square&label=SYSTEMS+ACCESSED)](https://github.com/Shadowcode-byte)
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&logo=statuspage&logoColor=black)
-&nbsp;
-![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL%205-ff0066?style=flat-square&logo=hackthebox&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/NODE-INDIA-00ffff?style=flat-square&logo=googlemaps&logoColor=black)
+
 
 </div>
 
