@@ -101,10 +101,7 @@ $ whoami
 
 ![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-00C7B7?style=for-the-badge&logo=hashnode&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-C70039?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 
 ### 🟣 `DEVELOPMENT STACK`
 
